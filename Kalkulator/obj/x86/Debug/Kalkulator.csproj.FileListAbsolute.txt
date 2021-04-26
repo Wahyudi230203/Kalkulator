@@ -1,0 +1,7 @@
+D:\KelasXII\UKK\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\KelasXII\UKK\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\KelasXII\UKK\Kalkulator\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Form1.resources
+D:\KelasXII\UKK\Kalkulator\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+D:\KelasXII\UKK\Kalkulator\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.csproj.GenerateResource.Cache
+D:\KelasXII\UKK\Kalkulator\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+D:\KelasXII\UKK\Kalkulator\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb
